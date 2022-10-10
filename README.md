@@ -1,5 +1,5 @@
 # COM Port Enumeration Excel VBA
-## Com (Serial) Port Enumeration in Excel VBA
+## Serial Com Port Enumeration in Excel VBA
 
 #### Functions to assist with Com Port selection in Excel
 
@@ -17,3 +17,4 @@ Notes
 
 1.  Worksheet VBA required in file `Sheet1.bas` to refresh combobox list. 
 2.  Further development required to use with Excel and other Office applications.
+3.  See (Microsoft W32 documentation)[https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcommports]
