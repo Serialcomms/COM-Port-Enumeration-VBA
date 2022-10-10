@@ -1,2 +1,12 @@
 # COM Port Enumeration VBA
 Com (Serial) Port Enumeration in VBA
+
+
+| VBA Function                         | Description                                                                                                   |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------|
+| `count_com_ports()`                  | Returns number of COM ports reported by Windows API call and updates Public variable `Com_Port_Count`         |
+| `get_port_names()`                   | Populates Public array `Com_Port_Names()`                                                                     |
+| `create_combo()`                     | Checks if port selector Combo box exists in Workbook Sheet1 and creates if missing                            |
+| `create_combo(sheet_name)`           | Checks if port selector Combo box exists in specified sheet and creates if missing                            |
+| `read_combo()`                       | Returns COM port selected from combo box in Workbook Sheet1                                                   |
+| `read_combo(sheet_name)`             | Returns COM port selected from combo box in specified sheet                                                   |
