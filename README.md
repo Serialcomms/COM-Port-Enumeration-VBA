@@ -17,4 +17,4 @@ Notes
 
 1.  Worksheet VBA required in file `Sheet1.bas` to refresh combobox list. 
 2.  Further development required to use with Excel and other Office applications.
-3.  See [getcommports documentation](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcommports) for details of API function used.
+3.  See `getcommports` [documentation](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcommports) for details of Win32 API function used.
