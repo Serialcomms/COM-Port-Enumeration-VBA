@@ -100,7 +100,7 @@ If Not Check_Combo Then  ' Create new Combo box
 
     WS.OLEObjects.Add ClassType:="Forms.ComboBox.1"
 
-            Set ComboBox = ThisWorkbook.Worksheets(Sheet_Name).ComboBox1
+    Set ComboBox = ThisWorkbook.Worksheets(Sheet_Name).ComboBox1
 
     ComboBox.Top = 100
     ComboBox.Left = 80
