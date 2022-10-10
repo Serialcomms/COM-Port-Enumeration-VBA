@@ -107,8 +107,6 @@ If Not Check_Combo Then  ' Create new Combo box
     ComboBox.Name = Port_Combo_Name
     ComboBox.List = Get_Port_Names
     ComboBox.ListIndex = 0
-  '  ComboBox.LinkedCell = Com_Port_Selected
-    
     
 Else
 
