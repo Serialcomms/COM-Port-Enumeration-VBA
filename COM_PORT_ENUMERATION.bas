@@ -1,5 +1,7 @@
 Attribute VB_Name = "COM_PORT_ENUMERATION"
 '
+' https://github.com/Serialcomms/COM-Port-Enumeration-VBA
+'
 Option Base 1
 Option Explicit
 
