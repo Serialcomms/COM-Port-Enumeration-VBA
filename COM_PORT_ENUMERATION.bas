@@ -61,11 +61,11 @@ For Each CB In WS.OLEObjects
     
         Com_Port_Selected = CB.Object.Value
 
-        Debug.Print CB.Name
-        Debug.Print CB.LinkedCell
-        Debug.Print CB.Object.Value
-        Debug.Print
-        
+        'Debug.Print CB.Name
+        'Debug.Print CB.LinkedCell
+        'Debug.Print CB.Object.Value
+        'Debug.Print
+ 
         CB_Found = True
         
         Exit For
