@@ -60,11 +60,6 @@ For Each CB In WS.OLEObjects
     If CB.Name = Port_Combo_Name Then
     
         Com_Port_Selected = CB.Object.Value
-
-        'Debug.Print CB.Name
-        'Debug.Print CB.LinkedCell
-        'Debug.Print CB.Object.Value
-        'Debug.Print
  
         CB_Found = True
         
