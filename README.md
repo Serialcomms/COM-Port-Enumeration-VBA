@@ -1,6 +1,7 @@
 # COM Port Enumeration Excel VBA
-Com (Serial) Port Enumeration in Excel VBA
+## Com (Serial) Port Enumeration in Excel VBA
 
+#### Functions to assist with Com Port selection in Excel
 
 | VBA Function                         | Description                                                                                                   |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------|
