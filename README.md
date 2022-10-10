@@ -11,3 +11,6 @@
 | `create_combo(sheet_name)`           | Checks if port selector Combo box exists in specified sheet and creates if missing                            |
 | `read_combo()`                       | Returns COM port selected from combo box in Workbook Sheet1                                                   |
 | `read_combo(sheet_name)`             | Returns COM port selected from combo box in specified sheet                                                   |
+
+
+Note Worksheet VBA required in file `Sheet1.bas` to refresh combobox list. 
