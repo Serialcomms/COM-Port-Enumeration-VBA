@@ -17,6 +17,8 @@ Private Temp_Port_Numbers(1 To MAX_PORT_COUNT) As Long
 Private Const Port_Combo_Name As String = "CP_Selector"
 '
 Public Function Count_Com_Ports() As Long
+      
+Application.Volatile      
 
 Get_Com_Ports Temp_Port_Numbers(1), MAX_PORT_COUNT, Com_Port_Count
 
@@ -33,12 +35,8 @@ Port_Count = Count_Com_Ports
 
 For Port_Ordinal = 1 To Port_Count
 
-   If Temp_Port_Numbers(Port_Ordinal) > 0 Then
-
-        Temp_Port_Names(Port_Ordinal) = "COM" & CStr(Temp_Port_Numbers(Port_Ordinal))
-        
-   End If
-    
+   Temp_Port_Names(Port_Ordinal) = "COM" & CStr(Temp_Port_Numbers(Port_Ordinal))
+            
 Next Port_Ordinal
 
 Com_Port_Names = Temp_Port_Names
