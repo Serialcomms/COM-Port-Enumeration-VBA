@@ -13,7 +13,7 @@ If Query_Com_Ports > 0 Then
 
 Else
 
-    Me.CP_Selector.List = Array("NO COM PORTS")
+    Me.CP_Selector.List = Array(TEXT_NO_COM_PORTS)
 
 End If
 
