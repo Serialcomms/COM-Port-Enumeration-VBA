@@ -22,3 +22,4 @@
 Notes
 1.  Worksheet VBA required in file `Sheet1.bas` to refresh combobox contents list. 
 2.  Further development required to use with Excel and other Office applications.
+3.  Files in Minimal folder for use with Access and other Office applications.
