@@ -6,6 +6,8 @@ End Sub
 
 Private Sub CP_Selector_DropButtonClick()
 
-Me.CP_Selector.List = Get_Port_Names
+Query_Com_Ports
+
+Me.CP_Selector.List = Com_Port_Names()
 
 End Sub
