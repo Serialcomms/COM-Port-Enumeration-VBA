@@ -25,7 +25,7 @@ To populate the combo box with COM port names, insert the following code block i
 the worksheet, using the combo box name as noted/defined previously.  Example below
 uses **ComboBox1** as the sub name prefix and in the **.List** statements. 
 
-From the Developer tab on Ribbon, click View Code, right-hand click the worksheet name and select View Code.
+From the Ribbon Developer tab, click View Code, right-hand click the worksheet name and select View Code.
 
 ```
 Private Sub ComboBox1_DropButtonClick()
