@@ -1,6 +1,6 @@
 # Combo Box Creation
 
-Use one of the two methods below to create and use a Combo Box
+Use one of the two methods below to create and populate a Combo Box
 
 #### 1. Create combo box using supplied VBA subroutine  
 
