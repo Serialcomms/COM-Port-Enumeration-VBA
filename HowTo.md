@@ -45,7 +45,10 @@ End Sub
 
 Check that clicking the combo's drop button causes the com port name(s) to appear in it.   
 
-If applicable, try removing/inserting/enabling any COM Ports and check that the combo updates correctly. 
+If applicable, try removing/inserting/enabling any COM Ports and check that the combo box updates correctly. 
 
 The text "NO COM PORTS FOUND" will be displayed in the combo on a PC with no COM Ports available.  
+
 This wording can be changed in the declarations section if required.  
+
+`Public Const TEXT_NO_COM_PORTS As String = "NO COM PORTS FOUND"`
