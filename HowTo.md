@@ -38,7 +38,7 @@ Else
 
 End If
 
-    Application.Calculate
+    ' Application.Calculate ' optional - if required
 
 End Sub
 ```
