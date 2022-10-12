@@ -26,7 +26,7 @@ Drop-down click will refresh query to update combo box with any newly added or r
 | `Com_Port_Numbers()`       | Long Array       | Com port numbers returned by `getcommports` [^1]                                                  |
 
 [^1]: See `getcommports` [documentation](https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcommports) for details of Win32 API function used.
-[^2]: Primarily for use within VBA, can also configure combo with `LinkedCell` to update defined cell directly with port selection.
+[^2]: Primarily for use within VBA, can also configure combo with `LinkedCell` to update defined worksheet cell directly with port selection.
 
 Notes
 1.  Worksheet VBA required in file `Sheet1.bas` to refresh combobox contents list. 
