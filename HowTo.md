@@ -5,7 +5,8 @@ Use one of the methods below to create and use a Combo Box
 #### 1. Create combo box using supplied VBA subroutine  
 
 Call sub `create_combo` to create an ActiveX control combo box.  
-Combo Box name is defined as `CP_Selector` in declarations section. 
+Combo Box name is defined in declarations section `Private Const Port_Combo_Name As String = "CP_Selector"`
+
 
 
 #### 2. Create combo box Manually
@@ -49,6 +50,4 @@ If applicable, try removing/inserting/enabling any COM Ports and check that the 
 
 The text "NO COM PORTS FOUND" will be displayed in the combo on a PC with no COM Ports available.  
 
-This wording can be changed in the declarations section if required.  
-
-`Public Const TEXT_NO_COM_PORTS As String = "NO COM PORTS FOUND"`
+Text defined in declarations section `Public Const TEXT_NO_COM_PORTS As String = "NO COM PORTS FOUND"`
