@@ -1,5 +1,10 @@
 ### COM Port Enumeration VBA
 
+Function here calls Win32 API to retrieve COM port count and numbers and generate names only.   
+Further development required to use with Office applications.
+
+#### Public Function
+
 | VBA Function                 | Description                                                                                                        |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------|
 | `query_com_ports()`          | Returns number of COM ports found by Windows API call[^1] , updates Public variables in table below                |
