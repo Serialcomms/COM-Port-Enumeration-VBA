@@ -1,6 +1,9 @@
 # COM Port Enumeration
 ## Serial Com Port Enumeration and selection in Excel VBA
 
+Functions to determine com ports available on host PC and allow user to select one for subsequent use via a combo box.   
+Drop-down click will refresh query to allow newly added or removed com ports to be displayed or removed from display. 
+
 <img src="com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
 #### Functions Used
