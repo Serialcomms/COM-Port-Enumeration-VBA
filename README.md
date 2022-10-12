@@ -1,5 +1,5 @@
 # COM Port Enumeration
-## Serial Com Port Enumeration in Excel VBA
+## Serial Com Port Enumeration and selection in Excel VBA
 
 <img src="com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
