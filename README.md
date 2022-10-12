@@ -3,7 +3,7 @@
 
 <img src="com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
-#### Functions to assist with end user Com Port selection in Excel 
+#### Functions Used
 
 | VBA Function                 | Description                                                                                                        |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------|
