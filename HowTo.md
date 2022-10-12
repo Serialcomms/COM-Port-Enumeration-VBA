@@ -41,3 +41,7 @@ End If
 
 End Sub
 ```
+
+Check that clicking the combo's drop button causes the com port name(s) to appear in it.   
+If applicable, try removing/inserting/enabling any COM Ports and check that the combo updates correctly. 
+The text "NO COM PORTS FOUND" will be displayed on PC with no COM Ports available, this text can be changed if required.  
