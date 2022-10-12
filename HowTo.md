@@ -21,7 +21,7 @@ Use a combo name of your choice or accept and note the default name given.
 ### Combo Box population 
 To populate the combo box with COM port names, insert the following code block into
 the worksheet, using the combo box name as noted/defined previously.  Example below
-uses ComboBox1 as the sub name prefix and in the .List statements. 
+uses **ComboBox1** as the sub name prefix and in the **.List** statements. 
 
 from Developer tab on Ribbon, click View Code, right-hand click the worksheet name and select View Code 
 
@@ -44,6 +44,7 @@ End Sub
 ```
 
 Check that clicking the combo's drop button causes the com port name(s) to appear in it.   
+
 If applicable, try removing/inserting/enabling any COM Ports and check that the combo updates correctly. 
 
 The text "NO COM PORTS FOUND" will be displayed in the combo on a PC with no COM Ports available.  
