@@ -6,7 +6,7 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 <img src="com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
-[Instructions here](HowTo.md)
+[Instructions to add a Com port selector combo box to your Excel sheet here](HowTo.md)
 
 #### Functions Used
 
