@@ -1,12 +1,16 @@
+'
+' Important = sub name and .List statements should match the combo box name
+' sub below is for a combo box with name CP_Selector
+
 Private Sub CP_Selector_DropButtonClick()
 
 If Query_Com_Ports > 0 Then
 
-    Me.CP_Selector.List = Com_Port_Names()
+    CP_Selector.List = Com_Port_Names()
 
 Else
 
-    Me.CP_Selector.List = Array(TEXT_NO_COM_PORTS)
+    CP_Selector.List = Array(TEXT_NO_COM_PORTS)
 
 End If
 
