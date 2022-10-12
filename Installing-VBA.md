@@ -1,3 +1,5 @@
+## Installing main VBA module
+
 - Download COM_PORT_ENUMERATION.bas to a known location on your PC  
 - Open a new Excel document   
 - Enter the VBA Environment (Alt-F11)  
