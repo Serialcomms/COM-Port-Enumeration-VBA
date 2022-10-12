@@ -4,7 +4,7 @@ Use one of the methods below to create and use a Combo Box
 
 #### 1. Create combo box using supplied VBA subroutine  
 
-Call sub `create_combo` to create an ActiveX control combo box.  
+Call supplied sub `create_combo` to create and configure an ActiveX control combo box.  
 Combo Box name is defined in declarations section `Private Const Port_Combo_Name As String = "CP_Selector"`
 
 
