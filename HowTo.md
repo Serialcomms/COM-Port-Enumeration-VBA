@@ -14,9 +14,9 @@ Combo Box name is defined in declarations section `Private Const Port_Combo_Name
 Add an ActiveX control combo box to your worksheet from the Excel Ribbon menu  
  * Developer > Insert > ActiveX controls > Combo Box
 
-Right-Hand click the newly-created com to view properties and rename if required. 
+Right-Hand click the newly-created combo box to view properties and rename if required. 
 
-Use a combo name of your choice or accept and note the default name given.
+Use a combo box name of your choice or accept and note the default name given.
 
 
 ### Combo Box data list population 
