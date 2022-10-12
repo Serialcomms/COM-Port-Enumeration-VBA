@@ -18,7 +18,7 @@ Right-Hand click the newly-created com to view properties and rename if required
 Use a combo name of your choice or accept and note the default name given.
 
 
-### Combo Box population 
+### Combo Box data list population 
 To populate the combo box with COM port names, insert the following code block into
 the worksheet, using the combo box name as noted/defined previously.  Example below
 uses **ComboBox1** as the sub name prefix and in the **.List** statements. 
