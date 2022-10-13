@@ -1,4 +1,4 @@
-# Combo Box Creation
+## Combo Box Creation
 
 Use one of the two methods below to create and populate a Combo Box  
 
