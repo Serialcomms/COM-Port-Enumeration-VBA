@@ -2,7 +2,8 @@
 
 Add an ActiveX control combo box to your worksheet from the Excel Ribbon menu 
 
-Developer > Insert > ActiveX controls > Combo Box
+Developer > Insert > ActiveX controls > Combo Box  
+
 Right-Hand click the newly-created combo box to view properties and rename if required.
 
 Use a combo box name of your choice or accept and note the default name given.
