@@ -6,6 +6,7 @@
 - From VBA Environment, view the Project Explorer (Control-R)  
 - From Project Explorer, right-hand click and select Import File  
 - Import the file COM_PORT_ENUMERATION.bas 
-- Check that a new module `COM_PORT_ENUMERATION` is created and visible in the Modules folder 
+- Check that a new module `COM_PORT_ENUMERATION` is created and visible in the Modules folder
+- VBA6 only - delete `PtrSafe` keyword in function definition   
 - Close and return to Excel (Alt-Q)  
 - IMPORTANT - save document as type Macro-Enabled with a file name of your choice  
