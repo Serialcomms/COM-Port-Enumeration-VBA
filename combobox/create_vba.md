@@ -11,7 +11,7 @@ VBA creates a new combo box with name `CP_Selector` as defined in declarations s
 
 `Public Const Port_ComboBox_Name As String = "CP_Selector"`
 
-#### Combo Box list population
+#### Combo Box dynamic list population
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
