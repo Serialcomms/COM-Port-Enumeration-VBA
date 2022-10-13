@@ -1,4 +1,6 @@
-### Create Port Select combo box manually
+### Combo Box Creation
+
+#### Create Port Select combo box manually
 
 Add an ActiveX control combo box to your worksheet from the Excel Ribbon menu 
 
