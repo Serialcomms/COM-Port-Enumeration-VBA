@@ -15,7 +15,7 @@ VBA creates a new combo box with name `CP_Selector` as defined in declarations s
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
-Copy and paste the code block below to populate the combo box data list with com port names from the host PC
+Copy and paste the [code block](/combobox/Sheet1.bas) below to populate the combo box data list with com port names from the host PC
 
 ```
 '
