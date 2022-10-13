@@ -2,20 +2,9 @@
 
 Use one of the two methods below to create and populate a Combo Box  
 
-1. [Create combo box using supplied VBA subroutine](/combobox/create_vba.md)
+1.  [VBA subroutine](/combobox/create_vba.md)  
 
-
-
-#### 2. Create combo box Manually
-
-Add an ActiveX control combo box to your worksheet from the Excel Ribbon menu  
- * Developer > Insert > ActiveX controls > Combo Box
-
-Right-Hand click the newly-created combo box to view properties and rename if required. 
-
-Use a combo box name of your choice or accept and note the default name given.  
-Update declarations section `Public Const Port_ComboBox_Name As String = ...` with new combo name.  
-Complete the next step to populate the combo box data list with com port names from the host PC.
+2.  [Create manually](/combobox/create_manual.md)
 
 
 ### Combo Box data list population 
