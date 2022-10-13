@@ -37,7 +37,7 @@ End If
 End Sub
 
 ```
-### Combo Box Testing
+#### Combo Box Testing
 
 Check that clicking the new combo box's drop button causes the com port name(s) to appear in it.   
 
