@@ -39,3 +39,7 @@ End If
 
 End Sub
 ```
+
+### Combo box testing
+
+[Testing](combo_box_testing.md)
