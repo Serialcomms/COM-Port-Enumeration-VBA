@@ -6,3 +6,7 @@ Use one of the two methods below to create and populate a Combo Box
 
 2.  [Create manually](/combobox/create_manual.md)
 
+
+## Combo Box Testing
+
+[Test new combo box](/combo/combo_box_testing.md)
