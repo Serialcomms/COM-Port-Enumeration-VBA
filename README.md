@@ -5,7 +5,7 @@ Functions to determine com ports available on host PC and allow user to select o
 
 Drop-down click will refresh query to update combo box with any newly added or removed com ports since last selection.
 
-<img src="com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
+<img src="/combobox/com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
 The main VBA module file should be installed first - [instructions here](Installing-VBA.md) 
 
