@@ -42,7 +42,7 @@ End Sub
 
 ### Combo box testing
 
-Check that clicking the new combo box's drop button causes the com port name(s) to appear in it.   
+Check that clicking the new combo box's drop button causes com port name(s) or the 'not found' text below to appear in it.   
 
 If applicable, try removing/inserting/enabling any COM Ports and check that the combo box updates correctly. 
 
