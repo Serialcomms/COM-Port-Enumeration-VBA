@@ -13,7 +13,7 @@ Use a combo box name of your choice or accept and note the default name given.
 Update declarations section `Public Const Port_ComboBox_Name As String = "your_combo_name"` with new combo name.
 
 
-#### Combo Box list population
+#### Combo Box dynamic list population
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
