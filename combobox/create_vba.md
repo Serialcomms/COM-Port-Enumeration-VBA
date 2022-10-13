@@ -3,7 +3,7 @@
 
 #### Create a new combo box using supplied VBA
 
-Call the supplied VBA sub `create_combo()` to create and configure a new ActiveX control combo box in default worksheet `Sheet1`
+Call the supplied VBA sub `create_combo()` from the VBA Immediate window to create and configure a new ActiveX control combo box in default worksheet `Sheet1`
 
 To create new combo box in a different worksheet, call the sub with a parameter `create_combo("your_worksheet_name")`
 
