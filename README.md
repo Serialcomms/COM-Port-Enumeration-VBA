@@ -9,7 +9,7 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 The main VBA module file should be installed first [instructions here](Installing-VBA.md) 
 
-Instructions to add a Com port selector combo box to your Excel sheet [here](HowTo.md)
+Add a Com port selector combo box to your Excel sheet [instructions here](HowTo.md)
 
 #### Functions Used
 
