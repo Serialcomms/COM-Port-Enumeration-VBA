@@ -1,9 +1,9 @@
 
-### Create Port Select combo box using supplied VBA
+### Create new combo box using supplied VBA
 
-Call supplied VBA sub `create_combo` to create and configure a new ActiveX control combo box. 
+Call the supplied VBA sub `create_combo` to create and configure a new ActiveX control combo box. 
 
-VBA creates combo box with name `CP_Selector` as defined in declarations section
+VBA creates a new combo box with name `CP_Selector` as defined in declarations section
 
 `Public Const Port_ComboBox_Name As String = CP_Selector`
 
