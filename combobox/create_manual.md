@@ -16,9 +16,8 @@ Complete the next step to populate the combo box data list with com port names f
 
 #### Combo Box list population
 
-To populate the combo box with COM port names, insert the following code block into
-the worksheet, using the combo box name as noted/defined previously.  Example below
-uses **ComboBox1** as the sub name prefix and in the two **.List** statements. 
+Insert the following code block into the worksheet, using the combo box name as noted/defined previously.  
+Example belowuses **ComboBox1** as the sub name prefix and in the two **.List** statements. 
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
