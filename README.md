@@ -7,7 +7,7 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 <img src="/combobox/com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
-The main VBA module file should be installed first - [instructions here](Installing-VBA.md) 
+The main VBA module file should be installed first [instructions here](Installing-VBA.md) 
 
 Instructions to add a Com port selector combo box to your Excel sheet [here](HowTo.md)
 
@@ -33,6 +33,6 @@ Instructions to add a Com port selector combo box to your Excel sheet [here](How
 [^2]: Primarily for use within VBA, can also configure combo with `LinkedCell` to update defined worksheet cell directly with port selection.
 
 Notes
-1.  Worksheet VBA required in file `Sheet1.bas` to refresh combobox contents list. 
+1.  Worksheet VBA required in file [`Sheet1.bas`](/combobox/Sheet1.bas) to refresh combobox contents list. 
 2.  Further development required to use with Excel and other Office applications.
 3.  Files in Minimal folder for use with Access and other Office applications.
