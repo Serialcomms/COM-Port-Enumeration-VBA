@@ -93,7 +93,7 @@ Public Sub Create_Combo(Optional Sheet_Name As String = "Sheet1")
 Dim WS As Worksheet
 Dim ComboBox As Object
 
-If Not Check_Combo Then  ' Create new Combo box
+    If Not Check_Combo(Sheet_Name) Then  ' Create new Combo box
 
     Set WS = ThisWorkbook.Worksheets(Sheet_Name)
 
