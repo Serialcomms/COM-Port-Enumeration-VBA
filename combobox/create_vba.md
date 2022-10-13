@@ -9,7 +9,7 @@ To create new combo box in a different worksheet, call the sub with a parameter 
 
 VBA creates a new combo box with name `CP_Selector` as defined in declarations section  
 
-`Public Const Port_ComboBox_Name As String = CP_Selector`
+`Public Const Port_ComboBox_Name As String = "CP_Selector"`
 
 #### Combo Box list population
 
