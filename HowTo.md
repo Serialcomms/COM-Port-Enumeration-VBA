@@ -4,6 +4,8 @@ Use one of the two methods below to create and populate a Combo Box
 
 #### 1. Create combo box using supplied VBA subroutine  
 
+{click here](/combobox/create_VBA.md)
+
 Call supplied VBA sub `create_combo` to create and configure an ActiveX control combo box.  
 VBA creates combo box with name defined in declarations section  
 `Public Const Port_ComboBox_Name As String = CP_Selector`  
