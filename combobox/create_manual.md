@@ -12,7 +12,6 @@ Use a combo box name of your choice or accept and note the default name given.
 
 Update declarations section `Public Const Port_ComboBox_Name As String = "your_combo_name"` with new combo name.
 
-Complete the next step to populate the combo box data list with com port names from the host PC when the combo drop down button is clicked.
 
 #### Combo Box list population
 
