@@ -1,7 +1,7 @@
 
 ### Combo Box Creation
 
-#### Create new combo box using supplied VBA
+#### Create a new combo box using supplied VBA
 
 Call the supplied VBA sub `create_combo()` to create and configure a new ActiveX control combo box in worksheet `Sheet1`
 
