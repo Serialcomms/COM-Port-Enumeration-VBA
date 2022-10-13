@@ -17,7 +17,7 @@ Update declarations section `Public Const Port_ComboBox_Name As String = "your_c
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
-Insert the following code block into the worksheet code window, using the combo box name as noted/defined previously.  
+Insert the following code block into the worksheet code window, edited if required with the combo box name as noted/defined previously.  
 
 Example below uses **ComboBox1** as the sub name prefix and in the two **.List** statements. 
 
