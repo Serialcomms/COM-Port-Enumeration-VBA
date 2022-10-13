@@ -6,7 +6,8 @@ Use one of the two methods below to create and populate a Combo Box
 
 Call supplied sub `create_combo` to create and configure an ActiveX control combo box.  
 Combo Box name is defined in declarations section `Private Const Port_Combo_Name As String = "CP_Selector"`  
-Complete the last step to populate the combo box data list with com port names from the host PC.
+Complete the last step to populate the combo box data list with com port names from the host PC, using 
+code block in [sheet1.bas](../sheet1.bas)
 
 
 #### 2. Create combo box Manually
