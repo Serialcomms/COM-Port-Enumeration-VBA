@@ -17,7 +17,7 @@
 
 ## Combo Box Creation
 
-Use one of the two methods below to create and populate a Combo Box  
+#### Use one of the two methods below to create and populate a Combo Box  
 
 1.  [Supplied VBA subroutine](/Worksheet/create_vba.md)  
 
