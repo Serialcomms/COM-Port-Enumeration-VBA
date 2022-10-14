@@ -9,8 +9,8 @@ Worksheet VBA and Combo instructions [here](/Worksheet/Installing-VBA.md)
 
 Ribbon VBA and Combo instructions [here](/Ribbon/Installing-VBA.md)
 
-<img src="/Worksheet/com_port_combo_box.jpg" alt="Excel Combo" title="Worksheet Combo Box" width="30%" height="30%">
-<img src="/Ribbon/RIBBON_COM_PORT.jpg" alt="Excel Combo" title="Ribbon Combo Box" width="30%" height="30%">
+<img src="/Worksheet/com_port_combo_box.jpg" alt="Excel Combo" title="Worksheet Combo Box" width="50%" height="50%">
+<img src="/Ribbon/RIBBON_COM_PORT.jpg" alt="Excel Combo" title="Ribbon Combo Box" width="50%" height="50%">
 
 [VBA Functions](Functions/Functions.md)
 
