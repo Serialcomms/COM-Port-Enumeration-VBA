@@ -22,6 +22,7 @@ Alternatively, customise the Excel Ribbon [instructions here](/Ribbon/HowTo.md)
 | `create_combo(sheet_name)`   | Checks if port selector Combo box exists in specified sheet and creates if missing                                 |
 | `read_combo()`               | Returns COM port selected from combo box in Workbook Sheet1 [^2]                                                   |
 | `read_combo(sheet_name)`     | Returns COM port selected from combo box in specified sheet [^2]                                                   |
+| `read_ribbon_combo()`        | Returns COM port selected from combo box in customised Excel Ribbon                                                |
 
 #### Public Variables 
 | Variable Name              | Variable Type    | Description                                                                                       |
