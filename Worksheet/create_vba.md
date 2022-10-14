@@ -15,7 +15,7 @@ VBA creates a new combo box with name `CP_Selector` as defined in declarations s
 
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
-Insert the following [code block](/combobox/Sheet1.bas) into the worksheet code window
+Insert the following [code block](/Worksheet/Sheet1.bas) into the worksheet code window
 
 ```
 '
