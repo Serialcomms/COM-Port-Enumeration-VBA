@@ -13,6 +13,8 @@
 - Close and return to Excel (Alt-Q)  
 - IMPORTANT - save document as type Macro-Enabled with a file name of your choice 
 
-#### Ribbon Customisation
+#### Excel Ribbon Customisation
 
-<img src="RIBBON_COM_PORT.jpg" alt="Excel Ribbon" title="Excel Ribbon" width="50%" height="50%">
+[Ribbon Customisation instructions](Ribbon-HowTo.md)
+
+
