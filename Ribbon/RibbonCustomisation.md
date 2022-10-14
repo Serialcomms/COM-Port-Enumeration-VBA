@@ -12,5 +12,5 @@
 8. Confirm the **Custom XML UI is well formed** message box
 9. Click **Save** from the RibbonX editor menu
 10. **Close** the RibbonX editor
-11. Re-open the Office document as normal in Excel 
-12. Confirm that a new tab **COM Ports** is present in the document ribbon menu
+11. Re-open the saved Excel document as normal
+12. Confirm that a new tab **COM Ports** is present in the Excel Ribbon menu
