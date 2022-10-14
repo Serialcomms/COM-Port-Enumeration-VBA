@@ -11,6 +11,8 @@ The main VBA module file should be installed first [instructions here](Installin
 
 Add a Com port selector combo box to your Excel sheet [instructions here](HowTo.md)
 
+Alternatively, customise the Excel Ribbon [instructions here](/Ribbon/HowTo.md)
+
 #### Functions Used
 
 | VBA Function                 | Description                                                                                                        |
