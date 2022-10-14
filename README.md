@@ -13,6 +13,8 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 <img src="/Ribbon/RIBBON_COM_PORT.jpg" alt="Excel Combo" title="Ribbon Combo Box" width="50%" height="50%">  
 
+## VBA Functions Table  
+
 [VBA Functions](Functions/Functions.md)
 
 
