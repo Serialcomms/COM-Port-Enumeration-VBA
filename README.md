@@ -9,7 +9,7 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 <img src="/Worksheet/com_port_combo_box.jpg" alt="Excel Combo" title="Worksheet Combo Box" width="50%" height="50%">
 
-**Ribbon VBA and Combo** instructions [here](/Ribbon/Installing-VBA.md)  
+**Ribbon VBA and Combo** instructions [here](/Ribbon/HowTo.md)  
 
 <img src="/Ribbon/RIBBON_COM_PORT.jpg" alt="Excel Combo" title="Ribbon Combo Box" width="50%" height="50%">  
 
