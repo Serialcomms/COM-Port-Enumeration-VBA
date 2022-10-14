@@ -11,6 +11,6 @@ Ribbon VBA and Combo instructions [here](/Ribbon/Installing-VBA.md)
 
 <img src="/combobox/com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
-#### Functions Used
+[VBA Functions](Functions/Functions.md)
 
 
