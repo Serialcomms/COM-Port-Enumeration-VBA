@@ -3,7 +3,7 @@
 ## Using the RibbonX Editor
 
 1. Close all Office documents before continuing
-2. Open the required Office document in the RibbonX Editor
+2. Open the required Excel document in the RibbonX Editor
 3. Confirm that the document name appears on the left hand side
 4. From the RibbonX menu, select **Insert > Office 2010+ Office UI Part**
 5. Confirm that **customUI14.xml** appears under the document name on the left
