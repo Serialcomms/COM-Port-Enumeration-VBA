@@ -5,9 +5,9 @@ Functions to determine com ports available on host PC and allow user to select o
 
 Drop-down click will refresh query to update combo box with any newly added or removed com ports since last selection.
 
-Worksheet Combo instructions [here](/Worksheet/Installing-VBA.md)
+Worksheet VBA and Combo instructions [here](/Worksheet/Installing-VBA.md)
 
-Ribbon Combo instructions [here](/Ribbon/Installing-VBA.md)
+Ribbon VBA and Combo instructions [here](/Ribbon/Installing-VBA.md)
 
 <img src="/combobox/com_port_combo_box.jpg" alt="Excel Combo" title="Excel Combo Box" width="50%" height="50%">
 
