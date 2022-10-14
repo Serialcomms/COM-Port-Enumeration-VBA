@@ -19,11 +19,11 @@
 
 Use one of the two methods below to create and populate a Combo Box  
 
-1.  [Supplied VBA subroutine](/combobox/create_vba.md)  
+1.  [Supplied VBA subroutine](/Worksheet/create_vba.md)  
 
-2.  [Manual ComboBox Creation](/combobox/create_manual.md)
+2.  [Manual ComboBox Creation](/Worksheet/create_manual.md)
 
 
 ## Combo Box Testing
 
-[Test new combo box](/combobox/combo_box_testing.md)
+[Test new combo box](/Worksheet/combo_box_testing.md)
