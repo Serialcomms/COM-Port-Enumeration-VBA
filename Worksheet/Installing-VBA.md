@@ -1,7 +1,7 @@
 
 ## Installing main VBA module
 
-###  The main VBA module file should be installed first
+####  The main VBA module file should be installed first
 
 - Download [COM_PORT_ENUMERATION.bas](COM_PORT_ENUMERATION.bas) to a known location on your PC  
 - Open a new Excel document   
