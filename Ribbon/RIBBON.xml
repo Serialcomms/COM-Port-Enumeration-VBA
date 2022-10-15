@@ -1,0 +1,19 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="InitPortRibbon"> 
+ <ribbon>
+  <tabs> 
+   <tab id="TAB_COM_PORTS" label="COM Ports" insertAfterMso="TabHome">       
+    <group id="GROUP_COM_PORTS" label="Com Port Selector"> 
+     <toggleButton id="CP_Button" imageMso="FieldInsert" label="Select Com Port" showImage="false"/> 
+     <comboBox  id="CP_Selector"   
+                getText="GetPortNames" 
+                getItemCount="GetPortCount" 
+                getItemLabel="GetPortLabel" 
+                getItemID="GetPortID" 
+                onChange="GetPortText" 
+                invalidateContentOnDrop="true">
+     </comboBox>
+    </group > 
+   </tab> 
+  </tabs> 
+ </ribbon> 
+</customUI>
