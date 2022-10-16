@@ -10,8 +10,7 @@
                 getItemLabel="GetPortLabel" 
                 getItemID="GetPortID" 
                 onChange="GetPortText" 
-                invalidateContentOnDrop="true">
-     </comboBox>
+                invalidateContentOnDrop="true"/>
     </group> 
    </tab> 
   </tabs> 
