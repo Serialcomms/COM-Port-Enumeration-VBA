@@ -21,6 +21,6 @@
 [^2]: Primarily for use within VBA, can also configure combo with `LinkedCell` to update defined worksheet cell directly with port selection.
 
 Notes
-1.  Worksheet VBA required in file [`Sheet1.bas`](/combobox/Sheet1.bas) to refresh combobox contents list. 
+1.  Worksheet VBA required in file [`Sheet1.bas`](/Worksheet/Sheet1.bas) to refresh combobox contents list. 
 2.  Further development required to use with Excel and other Office applications.
 3.  Files in Minimal folder for use with Access and other Office applications.
