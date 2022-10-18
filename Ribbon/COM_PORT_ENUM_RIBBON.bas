@@ -10,7 +10,7 @@ Public Com_Port_Numbers() As Long
 Public Com_Port_Selected As String
 Public Com_Port_Ribbon As IRibbonUI
 
-Public Const TEXT_NO_COM_PORTS As String = "No COM Ports"
+Public Const TEXT_NO_COM_PORTS As String = "No COM Ports."
 
 Private Declare PtrSafe Function Get_Com_Ports Lib "KernelBase.dll" Alias "GetCommPorts" _
 (ByRef Port_Array As Long, ByVal Array_Length As Long, ByRef Port_Count As Long) As Long
@@ -85,7 +85,9 @@ Sub GetButtonLabel(control As IRibbonControl, ByRef ButtonLabel)                
 Const TEXT_SELECT As String = "Select COM Port"
 Const TEXT_DETECT As String = "Detect COM Ports"
 
-ButtonLabel = IIf(Com_Port_Count = LONG_0, TEXT_DETECT, TEXT_SELECT)
+'ButtonLabel = IIf(Com_Port_Count = LONG_0, TEXT_DETECT, TEXT_SELECT)
+
+ButtonLabel = TEXT_SELECT        
 
 End Sub
 
