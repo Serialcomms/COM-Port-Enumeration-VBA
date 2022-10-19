@@ -32,8 +32,9 @@
 
 #### Testing
 
-Select a testing scenario below based on the number of COM ports known to be available on the PC.
-Enter the formula `=Read_Ribbon_Combo()` in any cell
+Select a testing scenario below based on the number of COM ports known to be available on the PC.  
+
+Enter the formula `=Read_Ribbon_Combo()` in any cell to begin
 
 <details><summary>No COM Ports</summary>
 <p>
