@@ -44,6 +44,8 @@ Select a testing scenario below based on the number of COM ports known to be ava
 <details><summary>No COM Ports</summary>
 <p>
 
+Check that - 
+  
 1. Label above combo box is **Detect COM Ports**
 2. Hovering over label shows supertip message 'No COM Ports available'
 3. Combo box shows message **No COM Ports**
@@ -52,8 +54,10 @@ Select a testing scenario below based on the number of COM ports known to be ava
 </p>
 </details>
 
-<details><summary>Single COM Port</summary>
-
+<details><summary>Single COM Port</summary> 
+  
+Check that - 
+    
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = 1'
 3. Com Port is available for selection in Combo box
@@ -65,11 +69,11 @@ Select a testing scenario below based on the number of COM ports known to be ava
 </p>
 </details>
 
-
-
 <details><summary>Multiple COM Ports</summary>
 <p>
-
+  
+Check that - 
+    
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = n'
 3. Com Ports are available for selection in Combo box
