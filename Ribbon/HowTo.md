@@ -32,6 +32,9 @@
 
 #### Testing
 
+<details><summary>Combo Box and Formula Testing</summary>
+<p>
+
 Enter the formula `=Read_Ribbon_Combo()` in any cell to begin
 
 Select a testing scenario below based on the number of COM ports known to be available on the PC.  
@@ -77,3 +80,5 @@ Select the COM Port tab and check that
 </p>
 </details>
 
+</p>
+</details>
