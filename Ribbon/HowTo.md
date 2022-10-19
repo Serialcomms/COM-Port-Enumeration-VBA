@@ -2,7 +2,7 @@
 
 ####  The main VBA module file should be installed first
 
-<details><summary>VBA Installation</summary>
+<details><summary>VBA Module Installation</summary>
 <p>
 
 - Download [COM_PORT_ENUM_RIBBON.bas](COM_PORT_ENUM_RIBBON.bas) to a known location on your PC  
