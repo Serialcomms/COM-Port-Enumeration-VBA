@@ -2,6 +2,9 @@
 
 ####  The main VBA module file should be installed first
 
+<details><summary>VBA Installation</summary>
+<p>
+
 - Download [COM_PORT_ENUM_RIBBON.bas](COM_PORT_ENUM_RIBBON.bas) to a known location on your PC  
 - Open a new Excel document   
 - Enter the VBA Environment (Alt-F11)  
@@ -13,8 +16,16 @@
 - Close and return to Excel (Alt-Q)  
 - IMPORTANT - save document as type Macro-Enabled with a file name of your choice 
 
+  </p>
+  </details>
+   
 #### Excel Ribbon Customisation
+
+<details><summary>Ribbon Customisation</summary>
+<p>
 
 - [Ribbon Customisation instructions](Ribbon-HowTo.md)
 
 
+  </p>
+  </details>
