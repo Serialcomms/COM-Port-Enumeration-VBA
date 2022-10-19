@@ -2,7 +2,7 @@ Attribute VB_Name = "COM_PORT_ENUM_RIBBON"
 '
 ' https://github.com/Serialcomms/COM-Port-Enumeration-VBA
 ' https://learn.microsoft.com/en-us/openspecs/office_standards/ms-customui
-'
+' https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcommports
 '
 Option Explicit
 
