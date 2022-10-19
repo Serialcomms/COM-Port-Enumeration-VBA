@@ -26,6 +26,53 @@
 
 - [Ribbon Customisation instructions](Ribbon-HowTo.md)
 
+</p>
+</details>
 
-  </p>
-  </details>
+
+#### Testing
+
+Select a testing scenario below based on the number of COM ports known to be available on the PC.
+Enter the formula `=Read_Ribbon_Combo()` in any cell
+
+<details><summary>No COM Ports</summary>
+<p>
+
+Select the COM Port tab and check that
+
+1. Label above combo box is **Detect COM Ports**
+2. Hovering over label shows supertip message 'No COM Ports available'
+3. Combo box shows message **No COM Ports**
+4. Cell with `=Read_Ribbon_Combo()` is blank  
+  
+</p>
+</details>
+
+<details><summary>Single COM Port</summary>
+
+1. Label above combo box is **Select COM Port**
+2. Hovering over label shows supertip message 'COM Ports available = 1'
+3. Com Port is available for selection in Combo box
+4. Selecting Com port updates cell with selection
+5. Clicking **Select COM Port** clears combo box and cell  
+  
+<p>
+
+</p>
+</details>
+
+
+
+<details><summary>Multiple COM Ports</summary>
+<p>
+
+1. Label above combo box is **Select COM Port**
+2. Hovering over label shows supertip message 'COM Ports available = n'
+3. Com Ports are available for selection in Combo box
+4. Selecting a Com port updates cell with selection
+5. Selecting a different Com port updates cell with selection 
+6. Clicking **Select COM Port** clears combo box and cell   
+  
+</p>
+</details>
+
