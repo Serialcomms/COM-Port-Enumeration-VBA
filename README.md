@@ -21,6 +21,6 @@ Drop-down click will refresh query to update combo box with any newly added or r
 
 ### VBA Functions Table  
 
-[VBA Functions](Functions/Functions.md)
+- [VBA Functions](Functions/Functions.md)
 
 
