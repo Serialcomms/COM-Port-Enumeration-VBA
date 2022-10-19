@@ -15,5 +15,4 @@
 11. **Close** the RibbonX editor
 12. Re-open the saved Excel document as normal
 13. Confirm that a new tab **COM Ports** is present in the Excel Ribbon menu 
-14. Check that combo box and label above it (button) are responsive.  
 
