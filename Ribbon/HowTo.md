@@ -81,7 +81,7 @@ Check that -
 2. Hovering over label shows supertip message 'COM Ports available = n'
 3. Multiple Com Ports are available for selection in Combo box
 4. Selecting a Com port updates cell with selection
-5. Selecting a different Com port updates cell with selection 
+5. Selecting a different Com port updates cell with new selection 
 6. Clicking **Select COM Port** clears combo box and cell   
   
 </p>
@@ -91,7 +91,7 @@ Check that -
 <summary>Adding / Removing COM Ports</summary>
 <p>
   
-If possible, check that adding and removing COM Ports updates the worksheet correctly
+If possible, check that adding and removing COM Ports updates the worksheet and controls correctly
   
 Click the label above the combo box, or re-select the combo box to re-scan available ports.
   
