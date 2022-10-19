@@ -41,7 +41,8 @@ Enter the formula `=Read_Ribbon_Combo()` in any cell to begin
 
 Select a testing scenario below based on the number of COM ports known to be available on the PC.  
 
-<details><summary>No COM Ports</summary>
+<details>
+<summary>No COM Ports</summary>
 <p>
 
 Check that - 
@@ -54,7 +55,9 @@ Check that -
 </p>
 </details>
 
-<details><summary>Single COM Port</summary> 
+<details>
+<summary>Single COM Port</summary> 
+<p>
   
 Check that - 
     
@@ -64,12 +67,11 @@ Check that -
 4. Selecting Com port updates cell with selection
 5. Clicking **Select COM Port** clears combo box and cell  
   
-<p>
-
 </p>
 </details>
 
-<details><summary>Multiple COM Ports</summary>
+<details>
+<summary>Multiple COM Ports</summary>
 <p>
   
 Check that - 
