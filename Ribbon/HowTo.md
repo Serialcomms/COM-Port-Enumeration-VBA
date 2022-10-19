@@ -34,6 +34,8 @@
 
 <details><summary>Combo Box and Formula Testing</summary>
 <p>
+  
+Select the COM Port tab and check that a combo box with a label above it are present    
 
 Enter the formula `=Read_Ribbon_Combo()` in any cell to begin
 
@@ -41,8 +43,6 @@ Select a testing scenario below based on the number of COM ports known to be ava
 
 <details><summary>No COM Ports</summary>
 <p>
-
-Select the COM Port tab and check that
 
 1. Label above combo box is **Detect COM Ports**
 2. Hovering over label shows supertip message 'No COM Ports available'
