@@ -63,7 +63,7 @@ Check that -
     
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = 1'
-3. Com Port is available for selection in Combo box
+3. Single Com Port is available for selection in Combo box
 4. Selecting Com port updates cell with selection
 5. Clicking **Select COM Port** clears combo box and cell  
   
@@ -79,7 +79,7 @@ Check that -
     
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = n'
-3. Com Ports are available for selection in Combo box
+3. Multiple Com Ports are available for selection in Combo box
 4. Selecting a Com port updates cell with selection
 5. Selecting a different Com port updates cell with selection 
 6. Clicking **Select COM Port** clears combo box and cell   
