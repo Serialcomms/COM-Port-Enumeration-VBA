@@ -10,6 +10,7 @@ Download the file [`RIBBON.xml`](RIBBON.xml) from this folder in preparation for
 
 Follow the [instructions](RibbonCustomisation.md) to install the `RIBBON.xml` customisation file.
 
+**Successful Ribbon XML customisation and validation using RibbonX editor**
+
 <img src="/Ribbon/RIBBONX_EDITOR.bmp" alt="Excel Combo" title="RibbonX Editor" width="80%" height="80%">  
 
-**Successful Ribbon XML customisation and validation using RibbonX editor**
