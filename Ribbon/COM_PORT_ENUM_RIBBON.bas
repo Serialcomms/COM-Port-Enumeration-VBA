@@ -58,7 +58,7 @@ Public Function Read_Ribbon_Combo() As String
 
 Application.Volatile
 
-Read_Ribbon_Combo = IIf(Com_Port_Count = LONG_0, vbNullString, Com_Port_Selected)
+Read_Ribbon_Combo = IIf(Com_Port_Count = LONG_0, vbNullString, Trim(Com_Port_Selected))
 
 End Function
 
@@ -131,7 +131,7 @@ End Sub
 
 Sub GetPortSelection(Control As IRibbonControl, PortSelection As String)            ' Ribbon Callback for CP_Selector onChange
 
-Com_Port_Selected = IIf(Com_Port_Count = LONG_0, vbNullString, Trim(PortSelection))
+Com_Port_Selected = IIf(Com_Port_Count = LONG_0, vbNullString, PortSelection)
 
 Application.Calculate
 
