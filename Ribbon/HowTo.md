@@ -102,7 +102,7 @@ Check that the following items change as expected -
 3. Combo box entries
 4. Formula cell  
      
-- COM Ports can be removed temporarily by enabling/disabling from the device manager.  
+##### COM Ports can be removed temporarily by enabling/disabling from the device manager.  
      
 </p>
 </details>  
