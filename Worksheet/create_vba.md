@@ -1,7 +1,11 @@
 
 ### Combo Box Creation
 
-#### Create a new combo box using supplied VBA
+<details>
+<summary>Create a new combo box using supplied VBA</summary>
+<p>
+    
+#### Combo Box Creation 
 
 Call the supplied VBA sub `create_combo()` from the VBA Immediate window to create and configure a new ActiveX control combo box in default worksheet `Sheet1`
 
@@ -10,9 +14,16 @@ To create new combo box in a different worksheet, call the sub with a parameter 
 VBA creates a new combo box with name `CP_Selector` as defined in declarations section  
 
 `Public Const Port_ComboBox_Name As String = "CP_Selector"`
+    
+</p>
+</details>    
 
-#### Combo Box dynamic list population
+<details>
+<summary>Combo Box dynamic list population</summary>
+<p>
 
+####  Combo Box dynamic list population   
+    
 From the Ribbon Developer tab, click View Code, right-hand click the worksheet name used above and select View Code.
 
 Insert the following [code block](/Worksheet/Sheet1.bas) into the worksheet code window
@@ -37,6 +48,13 @@ End If
 End Sub
 
 ```
+</p>
+</details>
+    
+<details>
+<summary>Combo Box Testing</summary>
+<p>
+
 #### Combo Box Testing
 
 Check that clicking the new combo box's drop button causes com port name(s) or NO COM PORTS FOUND to appear in it.   
@@ -47,3 +65,5 @@ If applicable, try removing/inserting/enabling any Com Ports and check that the 
 
 Text defined in declarations section `Public Const TEXT_NO_COM_PORTS As String = "NO COM PORTS FOUND"`
 
+</p>
+</details>
