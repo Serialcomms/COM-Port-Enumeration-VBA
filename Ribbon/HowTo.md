@@ -35,6 +35,8 @@
 <details><summary>Combo Box and Formula Testing</summary>
 <p>
   
+Open the document in Excel and check that no error messages appear on startup.  
+  
 Select the COM Port tab and check that a combo box with a label above it are present    
 
 Enter the formula `=Read_Ribbon_Combo()` in any cell to begin
