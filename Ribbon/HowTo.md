@@ -66,7 +66,7 @@ Check that -
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = 1'
 3. Single Com Port is available for selection in Combo box
-4. Selecting Com port updates cell with selection
+4. Selecting the Com port shown updates cell with formula `=Read_Ribbon_Combo()`
 5. Clicking **Select COM Port** clears combo box and cell  
   
 </p>
@@ -82,8 +82,8 @@ Check that -
 1. Label above combo box is **Select COM Port**
 2. Hovering over label shows supertip message 'COM Ports available = n'
 3. Multiple Com Ports are available for selection in Combo box
-4. Selecting a Com port updates cell with selection
-5. Selecting a different Com port updates cell with new selection 
+4. Selecting a Com port updates cell with formula `=Read_Ribbon_Combo()`
+5. Selecting a different Com port updates cell with new Com port
 6. Clicking **Select COM Port** clears combo box and cell   
   
 </p>
