@@ -15,6 +15,6 @@
 
 #### Excel Ribbon Customisation
 
-[Ribbon Customisation instructions](Ribbon-HowTo.md)
+- [Ribbon Customisation instructions](Ribbon-HowTo.md)
 
 
