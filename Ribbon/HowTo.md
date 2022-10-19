@@ -71,6 +71,7 @@ Check that -
 </details>
 
 <details>
+  
 <summary>Multiple COM Ports</summary>
 <p>
   
@@ -86,5 +87,26 @@ Check that -
 </p>
 </details>
 
+<details>  
+<summary>Adding / Removing COM Ports</summary>
+<p>
+  
+If possible, check that adding and removing COM Ports updates correctly.
+  
+Click the label above the combo box, or re-select the combo box to re-scan available ports.
+  
+Check that the following items change as expected.   
+  
+1. Label above Combo Box
+2. Label Supertip message
+3. Combo box entries
+4. Formula cell  
+    
+- COM Ports can be removed temporarily by enabling/disabling from the device manager.  
+    
+   
+</p>
+</details>  
+  
 </p>
 </details>
